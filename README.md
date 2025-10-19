@@ -43,3 +43,5 @@
 [Lloyd relaxation (version 20 - Voronoi 3D polylines endless XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#HAL1E9)
 
 [Lloyd relaxation (version 21 - Voronoi Pattern via Polar Transformation 3D) | Babylon.js Playground](https://playground.babylonjs.com/#J2Y5R3)
+
+[Lloyd relaxation (version 22 - Tube smooth version + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#LHFCTD)
