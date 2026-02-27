@@ -34,7 +34,7 @@
 
 [Lloyd relaxation (version 16 - Voronoi 3D grid) | Babylon.js Playground](https://playground.babylonjs.com/#4ITONL#1)
 
-[Lloyd relaxation (version 17 - Voronoi 3D grid cube version) | Babylon.js Playground](https://playground.babylonjs.com/#0OSSNH)
+[Lloyd relaxation (version 17 - Voronoi 3D grid cube version) | Babylon.js Playground](https://playground.babylonjs.com/#0OSSNH#1)
 
 [Lloyd relaxation (version 18 - Voronoi 3D polylines cube version) | Babylon.js Playground](https://playground.babylonjs.com/#AE7E7P)
 
