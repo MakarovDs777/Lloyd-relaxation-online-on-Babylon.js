@@ -53,3 +53,5 @@
 [Lloyd relaxation (version 25 - Voronoi Pattern via Polar Transformation 3D Tubes version) | Babylon.js Playground](https://playground.babylonjs.com/#K7SDM0)
 
 [Lloyd relaxation (version 26 - Voronoi Pattern via Polar Transformation 3D Tubes version + Dowload OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#L9UQWK)
+
+[Lloyd relaxation (version 27 - Voronoi Pattern via Polar Transformation 3D Tubes FULL Editor version) | Babylon.js Playground](https://playground.babylonjs.com/#KJ156W)
